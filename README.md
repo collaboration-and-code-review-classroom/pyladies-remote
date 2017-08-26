@@ -5,6 +5,7 @@
 - [GitHub Classroom](#github-classroom)
 - [Submitting a Shared Repository Pull Request](#submitting-a-shared-repository-pull-request)
 - [Forking and Submitting a Forked Repository Pull Request](#forking-and-submitting-a-forked-repository-pull-request)
+- [Other Ideas](#other-ideas)
  
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
