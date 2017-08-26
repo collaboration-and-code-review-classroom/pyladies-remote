@@ -54,9 +54,23 @@ In the organization account will be a repo similar to mine (pyladies-remote-Kath
 
 ## Forking and Submitting a Forked Repository Pull Request
 
+<!--
+images/github-forked-repo-master-branch-after-new-branch.png
+ -->
+ 
 ![](images/github-forking-1.png)
 
 ![](images/github-forking-2.png)
+
+![](images/github-user-account.png)
+
+![](images/github-forked-repo-master-branch.png)
+
+![](images/github-forked-repo-create-new-file.png)
+
+![](images/github-forked-repo-branch-tab.png)
+
+![](images/github-forked-repo-branch.png)
 
 ![](images/github-forked-repo-branch-message.png)
 
