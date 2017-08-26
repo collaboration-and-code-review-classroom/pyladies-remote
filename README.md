@@ -35,7 +35,7 @@ In the organization account will be a repo similar to mine (pyladies-remote-Kath
 
 ## Submitting a Shared Repository Pull Request
 
-I will have already created a branch with an added file (arbitrary change to demonstrate what happens) to get you started. Normally, someone will have submitted a pull request to you, but GitHub Classroom will not allow a pull request to be transferred to a new repo. There should be a message verifying that the branch exists and suggesting that a pull request be subitted.
+I will have already created a branch with an added file (arbitrary change to demonstrate what happens) to get you started. Normally, someone will have submitted a pull request to you, but GitHub Classroom will not allow a pull request to be transferred to a new repo. There should be a message verifying that the branch exists and suggesting that a pull request be submitted.
 
 ![](images/github-shared-repo-branch-message.png)
 
@@ -80,17 +80,30 @@ You can see that the branch is ahead of master by one commit and you can see the
 images/github-forked-repo-master-branch-after-new-branch.png
  -->
  
+This is the master branch of your repo in the "Collaboration and Code Review Classroom" organization. To fork the repo, click the "Fork" button.
+ 
 ![](images/github-shared-repo-master-branch.png)
+
+If you are a member of more than one user account or organization, you will be asked where to fork the repo. I am forking into my own user account.
 
 ![](images/github-forking-1.png)
 
+You will see a message verifying that the repo is being forked.
+
 ![](images/github-forking-2.png)
+
+You will now see an entry for the fork in your user account
 
 ![](images/github-user-account.png)
 
+Click on the repo hyperlink to open it. You will be on the master branch. The repo will be an exact copy of the organization repo. 
+
 ![](images/github-forked-repo-master-branch.png)
 
+Click the pencil icon "Create new file" to open a new file. 
+
 ![](images/github-forked-repo-create-new-file.png)
+
 
 ![](images/github-forked-repo-branch-tab.png)
 
