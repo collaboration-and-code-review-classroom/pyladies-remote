@@ -69,6 +69,27 @@ You can see that the branch is ahead of master by one commit and you can see the
 
 ### Reviewing Shared Repository Pull Request Locally- Example Process
 
+```bash
+$ git clone https://github.com/collaboration-and-code-review-classroom/pyladies-remote-KatherineMichel
+$ cd pyladies-remote-KatherineMichel
+
+git fetch origin
+git checkout -b shared-repository-pull-request origin/shared-repository-pull-request
+git merge master
+```
+
+```bash
+$ git add .
+$ git commit -m "Your note"
+$ git push origin shared-repository-pull-request
+```
+
+```bash
+$ git checkout master
+$ git merge --no-ff shared-repository-pull-request
+$ git push origin master
+```
+
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
@@ -138,6 +159,25 @@ If you click on "command line instructions", the instructions for reviewing the 
 <hr>
 
 ### Reviewing Forked Repository Pull Request Locally- Example Process
+
+```bash
+$ git clone https://github.com/collaboration-and-code-review-classroom/pyladies-remote-KatherineMichel
+$ cd pyladies-remote-KatherineMichel
+$ git checkout -b KatherineMichel-forked-repository-pull-request master
+$ git pull https://github.com/KatherineMichel/pyladies-remote-KatherineMichel.git forked-repository-pull-request
+```
+
+```bash
+$ git add .
+$ git commit -m "Your note"
+$ git push https://github.com/KatherineMichel/pyladies-remote-KatherineMichel KatherineMichel-forked-repository-pull-request:forked-repository-pull-request
+```
+
+```bash
+$ git checkout master
+$ git merge --no-ff KatherineMichel-forked-repository-pull-request
+$ git push origin master
+```
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
