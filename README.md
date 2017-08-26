@@ -12,9 +12,7 @@
 
 ## GitHub Classroom
 
-<!--
-![](images/github-classroom-1.png)
--->
+![](images/github-classroom-1-border.png)
 
 I will give you a link which will open a page where you can click "Accept the assignment". You might need to be logged into GitHub to proceed. 
 
