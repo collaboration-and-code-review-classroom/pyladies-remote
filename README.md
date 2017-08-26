@@ -8,7 +8,9 @@
  
 ## GitHub Classroom
 
+<!--
 ![](images/github-classroom-1.png)
+-->
 
 ![](images/github-classroom-2.png)
 
