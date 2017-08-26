@@ -5,7 +5,7 @@
 - [GitHub Classroom](#github-classroom)
 - [Submitting a Shared Repository Pull Request](#submitting-a-shared-repository-pull-request)
 - [Forking and Submitting a Forked Repository Pull Request](#forking-and-submitting-a-forked-repository-pull-request)
-
+ 
 ## GitHub Classroom
 
 ![](images/github-classroom-1.png)
@@ -17,6 +17,10 @@
 ![](images/github-classroom-4.png)
 
 ## Submitting a Shared Repository Pull Request
+
+![](images/github-shared-repo-branch-message.png)
+
+![](images/github-shared-repo-branch-tab.png)
 
 ![](images/github-shared-repo-open-pull-request.png)
 
@@ -31,6 +35,8 @@
 ![](images/github-forking-1.png)
 
 ![](images/github-forking-2.png)
+
+![](images/github-forked-repo-branch-message.png)
 
 ![](images/github-forked-repo-open-pull-request.png)
 
