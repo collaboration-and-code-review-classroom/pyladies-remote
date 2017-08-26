@@ -24,6 +24,10 @@ In the organization account will be a repo similar to mine (pyladies-remote-Kath
 
 ![](images/github-classroom-4.png)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ## Submitting a Shared Repository Pull Request
 
 ![](images/github-shared-repo-branch-message.png)
@@ -40,6 +44,10 @@ In the organization account will be a repo similar to mine (pyladies-remote-Kath
 
 ![](images/github-shared-repo-pull-request-full-instructions.png)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ## Forking and Submitting a Forked Repository Pull Request
 
 ![](images/github-forking-1.png)
@@ -55,3 +63,7 @@ In the organization account will be a repo similar to mine (pyladies-remote-Kath
 ![](images/github-forked-repo-pull-request-instructions.png)
 
 ![](images/github-forked-repo-pull-request-full-instructions.png)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
