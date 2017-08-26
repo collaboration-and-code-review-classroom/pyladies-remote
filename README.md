@@ -12,9 +12,15 @@
 ![](images/github-classroom-1.png)
 -->
 
+I will give you a link which will open a page where you can click "Accept the assignment". You might need to be logged into GitHub to proceed. 
+
 ![](images/github-classroom-2.png)
 
+A new page will open with a link at the bottom to click on to go to your repo
+
 ![](images/github-classroom-3.png)
+
+In the organization account will be a repo similar to mine (pyladies-remote-KatherineMichel), with your username. You will have "admin" privileges to this repo. 
 
 ![](images/github-classroom-4.png)
 
