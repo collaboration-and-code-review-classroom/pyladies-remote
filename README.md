@@ -4,7 +4,9 @@
 
 - [GitHub Classroom](#github-classroom)
 - [Submitting a Shared Repository Pull Request](#submitting-a-shared-repository-pull-request)
+- [Reviewing Shared Repository Pull Request Locally- Example Process](#example-process)
 - [Forking and Submitting a Forked Repository Pull Request](#forking-and-submitting-a-forked-repository-pull-request)
+- [Reviewing Forked Repository Pull Request Locally- Example Process](#example-process)
 - [Other Ideas](#other-ideas)
  
 :top: <sub>[**back to top**](#table-of-contents)</sub>
@@ -64,6 +66,14 @@ You can see that the branch is ahead of master by one commit and you can see the
 
 <hr>
 
+### Reviewing Shared Repository Pull Request Locally- Example Process
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
+- [Reviewing Forked Repository Pull Request Locally- Example Process](#example-process)
+
 ## Forking and Submitting a Forked Repository Pull Request
 
 <!--
@@ -95,6 +105,12 @@ images/github-forked-repo-master-branch-after-new-branch.png
 ![](images/github-forked-repo-pull-request-instructions.png)
 
 ![](images/github-forked-repo-pull-request-full-instructions.png)
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
+### Reviewing Forked Repository Pull Request Locally- Example Process
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
