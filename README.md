@@ -18,8 +18,24 @@
 
 ## Submitting a Shared Repository Pull Request
 
+![](images/github-shared-repo-open-pull-request.png)
+
+![](images/github-pull-request-tab-1.png)
+
+![](images/github-shared-repo-pull-request-instructions.png)
+
+![](images/github-shared-repo-pull-request-full-instructions.png)
+
 ## Forking and Submitting a Forked Repository Pull Request
 
 ![](images/github-forking-1.png)
 
 ![](images/github-forking-2.png)
+
+![](images/github-forked-repo-open-pull-request.png)
+
+![](images/github-pull-request-tab-2.png)
+
+![](images/github-forked-repo-pull-request-instructions.png)
+
+![](images/github-forked-repo-pull-request-full-instructions.png)
