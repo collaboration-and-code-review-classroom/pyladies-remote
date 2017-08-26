@@ -58,6 +58,8 @@ In the organization account will be a repo similar to mine (pyladies-remote-Kath
 images/github-forked-repo-master-branch-after-new-branch.png
  -->
  
+![](images/github-shared-repo-master-branch.png)
+
 ![](images/github-forking-1.png)
 
 ![](images/github-forking-2.png)
