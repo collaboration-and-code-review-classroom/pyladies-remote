@@ -40,6 +40,7 @@ I will have already created a branch with an added file (arbitrary change to dem
 ![](images/github-shared-repo-branch-message.png)
 
 Click "Compare and pull request" to start the pull request process. Verify the info is correct and click "Create pull request"
+
 ![](images/github-shared-repo-open-pull-request.png)
 
 In the pull request tab, you can see the pull request
@@ -92,30 +93,43 @@ You will see a message verifying that the repo is being forked.
 
 ![](images/github-forking-2.png)
 
-You will now see an entry for the fork in your user account
+You will now see an entry for the fork in your user account. Click on the repo hyperlink to open it. 
 
 ![](images/github-user-account.png)
 
-Click on the repo hyperlink to open it. You will be on the master branch. The repo will be an exact copy of the organization repo. 
+You will be on the master branch. The repo will be an exact copy of the organization repo. Click the pencil icon "Create new file" to open a new file. 
 
 ![](images/github-forked-repo-master-branch.png)
 
-Click the pencil icon "Create new file" to open a new file. 
+Create a new file, similarly to the new file in your organization repo. Or make some other change. 
 
 ![](images/github-forked-repo-create-new-file.png)
 
+If you want to look at the branch, you can by clicking on the branch and choosing the name you gave the branch
 
 ![](images/github-forked-repo-branch-tab.png)
 
+You can see that the branch is ahead of master by one commit and you can see the file I have added.
+
 ![](images/github-forked-repo-branch.png)
+
+Go back to your organization repo, the place that you want your pull request to be submitted to. There should be a message verifying that the branch exists and suggesting that a pull request be submitted.
 
 ![](images/github-forked-repo-branch-message.png)
 
+Click "Compare and pull request" to start the pull request process. Verify the info is correct and click "Create pull request"
+
 ![](images/github-forked-repo-open-pull-request.png)
+
+In the pull request tab, you can see the pull request
 
 ![](images/github-pull-request-tab-2.png)
 
+Click on the pull request to see info about the pull request. There is a "Merge pull request" button and command line instructions.
+
 ![](images/github-forked-repo-pull-request-instructions.png)
+
+If you click on "command line instructions", the instructions for reviewing the pull request locally will appear.
 
 ![](images/github-forked-repo-pull-request-full-instructions.png)
 
