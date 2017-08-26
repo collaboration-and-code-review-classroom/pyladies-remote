@@ -22,6 +22,8 @@
 
 ![](images/github-shared-repo-branch-tab.png)
 
+![](images/github-shared-repo-branch.png)
+
 ![](images/github-shared-repo-open-pull-request.png)
 
 ![](images/github-pull-request-tab-1.png)
