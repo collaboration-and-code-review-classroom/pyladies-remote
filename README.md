@@ -6,6 +6,10 @@
 - [Submitting a Shared Repository Pull Request](#submitting-a-shared-repository-pull-request)
 - [Forking and Submitting a Forked Repository Pull Request](#forking-and-submitting-a-forked-repository-pull-request)
  
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ## GitHub Classroom
 
 <!--
