@@ -121,7 +121,7 @@ Click "Compare and pull request" to start the pull request process. Verify the i
 
 ![](images/github-forked-repo-open-pull-request.png)
 
-In the pull request tab, you can see the pull request
+In the pull request tab, you can see the pull requests
 
 ![](images/github-pull-request-tab-2.png)
 
