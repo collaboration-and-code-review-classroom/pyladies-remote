@@ -86,3 +86,13 @@ images/github-forked-repo-master-branch-after-new-branch.png
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
+
+## Other Ideas
+
+* Clone the shared repo, create a new branch locally, push to the shared repo, submit a pull request
+* Clone the forked repo, create a new branch locally, push to the forked repo, submit a pull request to the shared repo
+* Add a remote upstream to a forked repo clone locally, update the clone, and push the update to the fork on GitHub
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
